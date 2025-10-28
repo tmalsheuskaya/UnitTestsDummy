@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-28T19:36:41 CET" name="Surefire suite" finished-at="2025-10-28T19:36:41 CET" duration-ms="23">
+    <groups>
+    </groups>
+    <test started-at="2025-10-28T19:36:41 CET" name="Surefire test" finished-at="2025-10-28T19:36:41 CET" duration-ms="23">
+      <class name="CalculatorJUnitTest">
+        <test-method signature="testDivideByZero()" started-at="2025-10-28T19:36:41 CET" name="testDivideByZero" finished-at="2025-10-28T19:36:41 CET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivideByZero -->
+        <test-method signature="testSubtract()" started-at="2025-10-28T19:36:41 CET" name="testSubtract" finished-at="2025-10-28T19:36:41 CET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtract -->
+        <test-method signature="testAdd()" started-at="2025-10-28T19:36:41 CET" name="testAdd" finished-at="2025-10-28T19:36:41 CET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method signature="testDivide()" started-at="2025-10-28T19:36:41 CET" name="testDivide" finished-at="2025-10-28T19:36:41 CET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivide -->
+        <test-method signature="testMultiply()" started-at="2025-10-28T19:36:41 CET" name="testMultiply" finished-at="2025-10-28T19:36:41 CET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiply -->
+      </class> <!-- CalculatorJUnitTest -->
+      <class name="EvenOddCheckerJUnitTest">
+        <test-method signature="testOddNumber()" started-at="2025-10-28T19:36:41 CET" name="testOddNumber" finished-at="2025-10-28T19:36:41 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOddNumber -->
+        <test-method signature="testZero()" started-at="2025-10-28T19:36:41 CET" name="testZero" finished-at="2025-10-28T19:36:41 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testZero -->
+        <test-method signature="testEvenNumber()" started-at="2025-10-28T19:36:41 CET" name="testEvenNumber" finished-at="2025-10-28T19:36:41 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEvenNumber -->
+        <test-method signature="testNegativeOddNumber()" started-at="2025-10-28T19:36:41 CET" name="testNegativeOddNumber" finished-at="2025-10-28T19:36:41 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeOddNumber -->
+        <test-method signature="testNegativeEvenNumber()" started-at="2025-10-28T19:36:41 CET" name="testNegativeEvenNumber" finished-at="2025-10-28T19:36:41 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeEvenNumber -->
+      </class> <!-- EvenOddCheckerJUnitTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
