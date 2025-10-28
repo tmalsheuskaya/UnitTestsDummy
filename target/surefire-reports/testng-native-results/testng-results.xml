@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-28T19:36:40 CET" name="Surefire suite" finished-at="2025-10-28T19:36:41 CET" duration-ms="30">
+    <groups>
+    </groups>
+    <test started-at="2025-10-28T19:36:40 CET" name="Surefire test" finished-at="2025-10-28T19:36:41 CET" duration-ms="30">
+      <class name="EvenOddCheckerTestNG">
+        <test-method signature="testEvenNumber()[pri:0, instance:EvenOddCheckerTestNG@53ca01a2]" started-at="2025-10-28T19:36:40 CET" name="testEvenNumber" finished-at="2025-10-28T19:36:41 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEvenNumber -->
+        <test-method signature="testNegativeEvenNumber()[pri:0, instance:EvenOddCheckerTestNG@53ca01a2]" started-at="2025-10-28T19:36:41 CET" name="testNegativeEvenNumber" finished-at="2025-10-28T19:36:41 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeEvenNumber -->
+        <test-method signature="testNegativeOddNumber()[pri:0, instance:EvenOddCheckerTestNG@53ca01a2]" started-at="2025-10-28T19:36:41 CET" name="testNegativeOddNumber" finished-at="2025-10-28T19:36:41 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeOddNumber -->
+        <test-method signature="testOddNumber()[pri:0, instance:EvenOddCheckerTestNG@53ca01a2]" started-at="2025-10-28T19:36:41 CET" name="testOddNumber" finished-at="2025-10-28T19:36:41 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOddNumber -->
+        <test-method signature="testZero()[pri:0, instance:EvenOddCheckerTestNG@53ca01a2]" started-at="2025-10-28T19:36:41 CET" name="testZero" finished-at="2025-10-28T19:36:41 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testZero -->
+      </class> <!-- EvenOddCheckerTestNG -->
+      <class name="RectangleTestNGTest">
+        <test-method signature="testConstructorSetLengthWidth()[pri:0, instance:RectangleTestNGTest@5ef60048]" started-at="2025-10-28T19:36:40 CET" name="testConstructorSetLengthWidth" finished-at="2025-10-28T19:36:40 CET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConstructorSetLengthWidth -->
+        <test-method signature="testRectangleArea()[pri:0, instance:RectangleTestNGTest@5ef60048]" started-at="2025-10-28T19:36:40 CET" name="testRectangleArea" finished-at="2025-10-28T19:36:40 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRectangleArea -->
+        <test-method signature="testSettersUpdatesValues()[pri:0, instance:RectangleTestNGTest@5ef60048]" started-at="2025-10-28T19:36:40 CET" name="testSettersUpdatesValues" finished-at="2025-10-28T19:36:40 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSettersUpdatesValues -->
+      </class> <!-- RectangleTestNGTest -->
+      <class name="RectangleJUnitTest">
+        <test-method signature="testConstructorSetLenghWidht()[pri:0, instance:RectangleJUnitTest@6e75aa0d]" started-at="2025-10-28T19:36:41 CET" name="testConstructorSetLenghWidht" finished-at="2025-10-28T19:36:41 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConstructorSetLenghWidht -->
+        <test-method signature="testRectangleArea()[pri:0, instance:RectangleJUnitTest@6e75aa0d]" started-at="2025-10-28T19:36:41 CET" name="testRectangleArea" finished-at="2025-10-28T19:36:41 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRectangleArea -->
+        <test-method signature="testSettersUpdatesValues()[pri:0, instance:RectangleJUnitTest@6e75aa0d]" started-at="2025-10-28T19:36:41 CET" name="testSettersUpdatesValues" finished-at="2025-10-28T19:36:41 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSettersUpdatesValues -->
+      </class> <!-- RectangleJUnitTest -->
+      <class name="CalculatorTestNGTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CalculatorTestNGTest@4b168fa9]" started-at="2025-10-28T19:36:41 CET" name="setUp" finished-at="2025-10-28T19:36:41 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAdd()[pri:0, instance:CalculatorTestNGTest@4b168fa9]" started-at="2025-10-28T19:36:41 CET" name="testAdd" finished-at="2025-10-28T19:36:41 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method signature="testDivideByZero()[pri:0, instance:CalculatorTestNGTest@4b168fa9]" started-at="2025-10-28T19:36:41 CET" name="testDivideByZero" finished-at="2025-10-28T19:36:41 CET" duration-ms="1" status="PASS">
+          <exception class="java.lang.ArithmeticException">
+            <message>
+              <![CDATA[/ by zero]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.ArithmeticException: / by zero
+at Calculator.divide(Calculator.java:16)
+at CalculatorTestNGTest.testDivideByZero(CalculatorTestNGTest.java:40)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:155)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:169)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:88)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:137)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.ArithmeticException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivideByZero -->
+        <test-method signature="testDivide()[pri:0, instance:CalculatorTestNGTest@4b168fa9]" started-at="2025-10-28T19:36:41 CET" name="testDivide" finished-at="2025-10-28T19:36:41 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivide -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CalculatorTestNGTest@4b168fa9]" started-at="2025-10-28T19:36:41 CET" name="setUp" finished-at="2025-10-28T19:36:41 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CalculatorTestNGTest@4b168fa9]" started-at="2025-10-28T19:36:41 CET" name="setUp" finished-at="2025-10-28T19:36:41 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CalculatorTestNGTest@4b168fa9]" started-at="2025-10-28T19:36:41 CET" name="setUp" finished-at="2025-10-28T19:36:41 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testMultiply()[pri:0, instance:CalculatorTestNGTest@4b168fa9]" started-at="2025-10-28T19:36:41 CET" name="testMultiply" finished-at="2025-10-28T19:36:41 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiply -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CalculatorTestNGTest@4b168fa9]" started-at="2025-10-28T19:36:41 CET" name="setUp" finished-at="2025-10-28T19:36:41 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSubtract()[pri:0, instance:CalculatorTestNGTest@4b168fa9]" started-at="2025-10-28T19:36:41 CET" name="testSubtract" finished-at="2025-10-28T19:36:41 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtract -->
+      </class> <!-- CalculatorTestNGTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
